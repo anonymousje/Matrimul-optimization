@@ -19,9 +19,6 @@ system:
    
 Installation (if necessary):
 
-If the external scripts are not pre-installed, you'll need to obtain and install them according to
-their specific installation instructions. Some common methods include:
-Using package managers for pre-built versions (e.g., `apt-get`, `yum`)
 
 Downloading source code and compiling manually: 
 
